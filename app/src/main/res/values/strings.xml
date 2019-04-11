@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GitHubRepositoriesSearch</string>
+    <string name="generic_error">Ops, algo errado aconteceu.</string>
+    <string name="generic_error_swipe">Ops, algo errado aconteceu. Deslize para atualizar</string>
+    <string name="search_hint">Pesquisar…</string>
+    <string name="error_get_repos">Erro ao buscar repositórios</string>
+    <string name="results_not_found">Nenhum resultado encontrado</string>
+    <string name="description">Descrição</string>
+    <string name="repo_list_complete">Lista completa</string>
+    <string name="error_get_repo">Erro ao buscar repositório</string>
+</resources>
